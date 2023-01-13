@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    font-weight: 600;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 700;
+    background-color: silver;
+}
+
+h4 {
+    font-weight: 600;
+    background-color: tomato;
+}
+
+
+ul {
+    font-weight: 300;
+    font-size: 20px;
+}
